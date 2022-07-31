@@ -1,0 +1,3 @@
+class InjectionContainer {
+  InjectionContainer();
+}
