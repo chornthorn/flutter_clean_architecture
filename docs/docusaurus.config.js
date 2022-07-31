@@ -102,7 +102,7 @@ const config = {
               },
               {
                 label: 'Basics',
-                to: '/docs/category/introduction-',
+                to: '/docs/overview',
               },
             ],
           },
