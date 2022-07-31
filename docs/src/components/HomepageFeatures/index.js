@@ -6,29 +6,17 @@ const FeatureList = [
   {
     title: 'Readable',
     Svg: require('@site/static/img/bolt.svg').default,
-    description: (
-      <>
-        Coming soon.
-      </>
-    ),
+    description: <>Coming soon.</>,
   },
   {
     title: 'Maintainable & Scalable',
     Svg: require('@site/static/img/heart.svg').default,
-    description: (
-      <>
-        Coming soon.
-      </>
-    ),
+    description: <>Coming soon.</>,
   },
   {
     title: 'Testable',
     Svg: require('@site/static/img/target.svg').default,
-    description: (
-      <>
-        Coming soon.
-      </>
-    ),
+    description: <>Coming soon.</>,
   },
 ];
 
