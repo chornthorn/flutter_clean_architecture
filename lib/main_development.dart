@@ -1,13 +1,6 @@
-// Copyright (c) 2022, Very Good Ventures
-// https://verygood.ventures
-//
-// Use of this source code is governed by an MIT-style
-// license that can be found in the LICENSE file or at
-// https://opensource.org/licenses/MIT.
-
-import 'package:flutter_clean_architecture/app/app.dart';
-import 'package:flutter_clean_architecture/bootstrap.dart';
+import 'bootstrap.dart';
+import 'view/app_index.dart';
 
 void main() {
-  bootstrap(() => const App());
+  bootstrap(() => const AppIndex());
 }
