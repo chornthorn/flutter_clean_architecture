@@ -11,3 +11,6 @@ jobs:
     with:
       flutter_channel: stable
       flutter_version: 3.0.4
+      coverage_excludes: "*.g.dart"
+      test_recursion: true
+      path: "./coverage/lcov.info"
